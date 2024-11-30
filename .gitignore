@@ -1,0 +1,27 @@
+# Fichiers Binaires et temporaires
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Fichiers utilisateurs spécifiques
+*.suo
+*.user
+*.userprefs
+*.plist
+*.pidb
+*.pdb
+*.opendb
+*.sln.docstates
+
+# Autres fichiers temporaires
+*.log
+*.temp
+*.csproj
+*.apk
+*.xcodeproj
+*.xcworkspace
+
+# Ne garder que les fichiers essentiels dans le contenu
+Content/*/Developers/
+Content/*/Collections/
